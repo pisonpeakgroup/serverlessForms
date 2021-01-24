@@ -1,0 +1,36 @@
+{
+  "name": "serverless-form",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Ubine M Joseph <pisonpeakgroup@gmail.com> (https://pisonpeak.com.ng/)",
+  "bugs": {
+      "url": "https://github.com/lexoyo/email-form-data/issues"
+    },
+  "homepage": "https://github.com/lexoyo/email-form-data",
+  "license": "GPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lexoyo/email-form-data.git"
+  },
+  "dependencies": {
+    "formidable": "1.1.1",
+    "nodemailer": "4.0.1"
+  },
+  "keywords": [
+    "email",
+    "serverless",
+    "1 click deploy",
+    "backend",
+    "API",
+    "HTML form",
+    "custom form",
+    "contact form",
+    "email capture form",
+    "static site",
+    "static"
+  ]
+}
